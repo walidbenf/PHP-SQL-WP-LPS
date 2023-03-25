@@ -1,0 +1,16 @@
+.contacts{
+
+    width:100%;
+    border-collapse: collapse;
+}
+.contacts thead{
+    background: #eee;
+}
+.contacts thead th, .contacts tbody td{
+    padding: 3px;
+    border: 1px solid #000;
+}
+.navbar {
+  text-align:center !important;
+  background-color:#5c5c5c !important;
+}

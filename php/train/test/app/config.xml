@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+<config>
+	<host>localhost</host>
+	<user>root</user>
+	<password></password>
+	<db>vtc</db>
+	<table>conducteur</table>
+</config>

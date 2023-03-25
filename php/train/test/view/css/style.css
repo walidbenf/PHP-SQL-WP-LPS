@@ -1,0 +1,24 @@
+table.contacts {
+  width: 100%;
+  border-collapse: collapse;
+}
+table.contacts thead {
+  background-color: #eee;
+}
+table.contacts thead th,
+table.contacts tbody td {
+  padding: 3px;
+  border: 1px solid #000;
+}
+.navbar {
+  background-color:#5c5c5c !important;
+}
+.nav-link {
+  color:grey !important;
+}
+.nav-link:hover {
+  color:white !important;
+}
+table.contacts {
+  margin-top:50px;
+}
