@@ -1,0 +1,255 @@
+# Translation of WordPress.com - Themes - Pictorico in French (Canada)
+# This file is distributed under the same license as the WordPress.com - Themes - Pictorico package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 08:20:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr_CA\n"
+"Project-Id-Version: WordPress.com - Themes - Pictorico\n"
+
+#: inc/wpcom-colors.php:38
+msgid "Main Accent"
+msgstr "Accent Principal"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+#: inc/template-tags.php:111
+msgid "<span class=\"posted-on\">%1$s</span>"
+msgstr "<span class=\"posted-on\">%1$s</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\"></span> Older posts"
+msgstr "<span class=\"meta-nav\"></span> Articles antérieurs"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\"></span>"
+msgstr "Articles ultérieurs <span class=\"meta-nav\"></span>"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Navigation des articles"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Navigation des articles"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "Page %s"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Aller au contenu principal"
+
+#: header.php:30
+msgid "Menu"
+msgstr "Menu"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans Condensed, translate this to 'off'. Do not translate into
+#. your own language.
+#: functions.php:162
+msgctxt "Open Sans Condensed font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:171
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:109
+msgid "Footer Sidebar 3"
+msgstr "Zone de Pied de Page 3"
+
+#: functions.php:118
+msgid "Footer Sidebar 4"
+msgstr "Zone de Pied de Page 4"
+
+#: functions.php:91
+msgid "Footer Sidebar 1"
+msgstr "Zone de Pied de Page 1"
+
+#: functions.php:100
+msgid "Footer Sidebar 2"
+msgstr "Zone de Pied de Page 2"
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème %1$s par %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:58
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: content.php:58
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: content.php:58
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: content-single.php:54 content.php:52
+msgid "Tagged %1$s"
+msgstr "Marqué %1$s"
+
+#: content-single.php:49 content.php:42
+msgid "Posted in %1$s"
+msgstr "Posté dans %1$s"
+
+#: content.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:47 content-single.php:52 content.php:38 content.php:48
+msgid ", "
+msgstr ", "
+
+#: content-page.php:33 content-single.php:38 content.php:27
+msgid "Pages:"
+msgstr "Pages :"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Le contenu demandé n&rsquo;a pu être trouvé. Pourquoi ne pas lancer une recherche? "
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères. Réessayez en modifiant les termes de recherche."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Vous êtes prêt à publier votre premier article? <a href=\"%1$s\">Commencez ici</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Inaccessible"
+
+#: content-home.php:28 content-single.php:30
+msgid "All %s posts"
+msgstr "Tous les articles de %s"
+
+#: content-featured.php:36 content-home.php:50 content-page.php:38
+#: content-single.php:60 content.php:61 image.php:92
+msgid "Edit"
+msgstr "Modifier"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires ultérieurs &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires antérieurs"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réflexion sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s réflexions sur &ldquo;%2$s&rdquo;"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audios"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Clavardages"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Archives"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "États"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Liens"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Citations"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Vidéos"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Images"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galeries"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Apartés"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Année&nbsp;: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Jour&nbsp;: %s"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Mois&nbsp;: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Auteur : %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Aucun contenu n&rsquo; a été trouvé à l&rsquo;adresse demandée. Pourquoi ne pas essayer une recherche? "
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups! Cette page est introuvable."

@@ -1,0 +1,18 @@
+/*
+ Theme Name:   Theme Child
+ Theme URI:    http://example.com/theme-child/
+ Description:  the Child Theme
+ Author:       Walid
+ Author URI:   http://example.com
+ Template:     twentyseventeen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  theme-child
+*/
+
+.site-title a{
+    color: green !important;
+
+}

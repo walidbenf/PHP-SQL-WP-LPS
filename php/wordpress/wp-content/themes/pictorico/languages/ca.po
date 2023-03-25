@@ -1,0 +1,215 @@
+# Translation of WordPress.com - Themes - Pictorico in Catalan
+# This file is distributed under the same license as the WordPress.com - Themes - Pictorico package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-15 18:26:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ca\n"
+"Project-Id-Version: WordPress.com - Themes - Pictorico\n"
+
+#: inc/jetpack.php:130
+msgid "Older projects"
+msgstr "Projectes més antics"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultats de la cerca per a: %s"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Navegació d'entrades"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Navegacio d'entrades"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "Pàgina %s"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Vés al contingut"
+
+#: header.php:30
+msgid "Menu"
+msgstr "Menú"
+
+#. translators: If there are characters in your language that are not supported
+#. by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:171
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s de %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Gràcies al %s"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:58
+msgid "% Comments"
+msgstr "% comentaris"
+
+#: content.php:58
+msgid "1 Comment"
+msgstr "1 comentari"
+
+#: content.php:58
+msgid "Leave a comment"
+msgstr "Deixa un comentari"
+
+#: content-single.php:54 content.php:52
+msgid "Tagged %1$s"
+msgstr "Etiquetat %1$s"
+
+#: content-single.php:49 content.php:42
+msgid "Posted in %1$s"
+msgstr "Publicat a %1$s"
+
+#: content.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continua llegint <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:47 content-single.php:52 content.php:38 content.php:48
+msgid ", "
+msgstr ", "
+
+#: content-page.php:33 content-single.php:38 content.php:27
+msgid "Pages:"
+msgstr "Pàgines:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sembla que no podem trobar el que busqueu. Potser el cercador us pot ajudar."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Res no coincideix amb els termes de cerca. Torneu-ho a provar amb algunes paraules claus diferents."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Preparats per publicar la primera entrada? <a href=\"%1$s\">Comenceu aquí</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "No s'ha trobat res"
+
+#: content-home.php:28 content-single.php:30
+msgid "All %s posts"
+msgstr "Totes %s les entrades"
+
+#: content-featured.php:36 content-home.php:50 content-page.php:38
+#: content-single.php:60 content.php:61 image.php:79
+msgid "Edit"
+msgstr "Edita"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Els comentaris estan tancats."
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Comentaris més recents  &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentaris anteriors"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Navegació pels comentaris"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensament sobre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensaments sobre &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Arxius"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Xats"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Àudios"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Estats"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Enllaços"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Cites"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Vídeos"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Imatges"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galeries"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Notes"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Any: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F \\\\d\\\\e Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Dia: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Aquesta pàgina no es pot trobar."

@@ -1,0 +1,277 @@
+# Translation of WordPress.com - Themes - Pictorico in Hungarian
+# This file is distributed under the same license as the WordPress.com - Themes - Pictorico package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-06 00:19:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hu\n"
+"Project-Id-Version: WordPress.com - Themes - Pictorico\n"
+
+#: content-single.php:57
+msgid "Bookmark the permalink."
+msgstr "A könyvjelző egy közvetlen hivatkozás"
+
+#: inc/jetpack.php:129
+msgid "Older projects"
+msgstr "Régebbi projektek"
+
+#: image.php:102
+msgid "Next Image <span class=\"meta-nav\"></span>"
+msgstr "Következő kép <span class=\"meta-nav\"></span>"
+
+#: image.php:101
+msgid "<span class=\"meta-nav\"></span> Previous Image"
+msgstr "<span class=\"meta-nav\"></span> Előző kép"
+
+#: inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\"></span> %title"
+msgstr "<span class=\"meta-nav\"></span> %title"
+
+#: inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\"></span>"
+msgstr "%title <span class=\"meta-nav\"></span>"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s kifejezésre történő keresés eredménye"
+
+#: inc/template-tags.php:111
+msgid "<span class=\"posted-on\">%1$s</span>"
+msgstr "<span class=\"posted-on\">%1$s</span>"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Bejegyzések navigációja"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\"></span> Older posts"
+msgstr "<span class=\"meta-nav\"></span> Korábbi bejegyzések"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\"></span>"
+msgstr "Legfrissebb bejegyzések <span class=\"meta-nav\"></span>"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Bejegyzések navigációja"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "%s oldal"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Tovább a tartalomra"
+
+#: header.php:30
+msgid "Menu"
+msgstr "Menü"
+
+#. translators: If there are characters in your language that are not supported
+#. by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:171
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "off"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans Condensed, translate this to 'off'. Do not translate into
+#. your own language.
+#: functions.php:162
+msgctxt "Open Sans Condensed font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:118
+msgid "Footer Sidebar 4"
+msgstr "Lábrész 4. oldalsáv"
+
+#: functions.php:109
+msgid "Footer Sidebar 3"
+msgstr "Lábrész 3. oldalsáv"
+
+#: functions.php:91
+msgid "Footer Sidebar 1"
+msgstr "Lábrész 1. oldalsáv"
+
+#: functions.php:100
+msgid "Footer Sidebar 2"
+msgstr "Lábrész 2. oldalsáv"
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr "Elsődleges menü"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Sablon: %1$s Szerző: %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Köszönjük %s!"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wphu.org"
+
+#: content.php:58
+msgid "% Comments"
+msgstr "% hozzászólás"
+
+#: content.php:58
+msgid "1 Comment"
+msgstr "1 hozzászólás"
+
+#: content.php:58
+msgid "Leave a comment"
+msgstr "Hozzászólás"
+
+#: content-single.php:54 content.php:52
+msgid "Tagged %1$s"
+msgstr "%1$s megjelölt"
+
+#: content-single.php:49 content.php:42
+msgid "Posted in %1$s"
+msgstr "%1$s Bejegyzés kategória"
+
+#: content.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Bővebben... <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:47 content-single.php:52 content.php:38 content.php:48
+msgid ", "
+msgstr ", "
+
+#: content-page.php:33 content-single.php:38 content.php:27
+msgid "Pages:"
+msgstr "Oldal:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Úgy tűnik, nem található az, amire gondoltunk. Talán, egy újabb keresés segíthet."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Elnézést, nem találunk a keresési feltételeknek megfelelő eredményt. Másik kulcsszóval, kifejezéssel újra kellene kezdeni egy keresést."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Készen állunk az első bejegyzés közzétételére? <a href=\"%1$s\">Kezdőlépések</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nincs megfelelő találat"
+
+#: content-home.php:28 content-single.php:30
+msgid "All %s posts"
+msgstr "Minden %s bejegyzés"
+
+#: content-featured.php:36 content-home.php:50 content-page.php:38
+#: content-single.php:60 content.php:61 image.php:92
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Hozzászólások lezárva."
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Újabb hozzászólás &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Korábbi hozzászólás"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Hozzászólás navigáció"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; bejegyzéshez egy hozzászólás"
+msgstr[1] "&ldquo;%2$s&rdquo; bejegyzéshez %1$ hozzászólás"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audiók"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Beszélgetések"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Összes bejegyzés"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Állapotok"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Hivatkozások"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Idézetek"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Videók"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Képek"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galériák"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Széljegyzetek"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Év: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y F"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Nap: %s"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Hónap: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Szerző: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Úgy tűnik, ezen a helyen nincs értékelhető találat. Talán egy újabb keresés segíthet."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppá! A keresett oldal nem található."

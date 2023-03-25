@@ -1,0 +1,251 @@
+# Translation of WordPress.com - Themes - Pictorico in Spanish (Spain)
+# This file is distributed under the same license as the WordPress.com - Themes - Pictorico package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-30 20:12:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: WordPress.com - Themes - Pictorico\n"
+
+#: inc/wpcom-colors.php:38
+msgid "Main Accent"
+msgstr "Acento Principal"
+
+#: inc/jetpack.php:129
+msgid "Older projects"
+msgstr "Proyectos anteriores"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+#: inc/template-tags.php:111
+msgid "<span class=\"posted-on\">%1$s</span>"
+msgstr "<span class=\"posted-on\">%1$s</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\"></span> Older posts"
+msgstr "<span class=\"meta-nav\"></span> Entradas antiguas"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\"></span>"
+msgstr "Nuevas entradas <span class=\"meta-nav\"></span>"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Navegador de artículos"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Ir a las entradas"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "Página %s"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: header.php:30
+msgid "Menu"
+msgstr "Menú"
+
+#. translators: If there are characters in your language that are not supported
+#. by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:171
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:109
+msgid "Footer Sidebar 3"
+msgstr "Barra lateral a pie de página 3"
+
+#: functions.php:118
+msgid "Footer Sidebar 4"
+msgstr "Barra lateral a pie de página 4"
+
+#: functions.php:91
+msgid "Footer Sidebar 1"
+msgstr "Barra lateral a pie de página 1"
+
+#: functions.php:100
+msgid "Footer Sidebar 2"
+msgstr "Barra lateral a pie de página 2"
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr "Menú Principal"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Funciona con %s"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:58
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: content.php:58
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: content.php:58
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: content-single.php:54 content.php:52
+msgid "Tagged %1$s"
+msgstr "Etiquetado como %1$s"
+
+#: content-single.php:49 content.php:42
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#: content.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Sigue leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:47 content-single.php:52 content.php:38 content.php:48
+msgid ", "
+msgstr ", "
+
+#: content-page.php:33 content-single.php:38 content.php:27
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Tal vez la búsqueda le pueda ayudar."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincidió con su búsqueda. Por favor inténtelo de nuevo con otras palabras clave."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: content-home.php:28 content-single.php:30
+msgid "All %s posts"
+msgstr "Las %s entradas"
+
+#: content-featured.php:36 content-home.php:50 content-page.php:38
+#: content-single.php:60 content.php:61 image.php:92
+msgid "Edit"
+msgstr "Editar"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios recientes &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios antiguos"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Archivos"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Chat"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audios"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Estados"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Enlaces"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Citas"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Vídeos"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Imágenes"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galerías"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Apartados"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Año: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Día: %s"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que no hay nada en este lugar. ¿Y si pruebas una búsqueda?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! Esa página no se puede encontrar."

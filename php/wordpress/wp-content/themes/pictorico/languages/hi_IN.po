@@ -1,0 +1,265 @@
+# Translation of WordPress.com - Themes - Pictorico in Hindi
+# This file is distributed under the same license as the WordPress.com - Themes - Pictorico package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-06-19 13:25:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-beta.2\n"
+"Language: hi_IN\n"
+"Project-Id-Version: WordPress.com - Themes - Pictorico\n"
+
+#: inc/jetpack.php:130
+msgid "Older projects"
+msgstr "पुरानी परियोजना"
+
+#: image.php:88
+msgid "Next Image <span class=\"meta-nav\"></span>"
+msgstr "अगली छवि <span class=\"meta-nav\"></span>"
+
+#: image.php:87
+msgid "<span class=\"meta-nav\"></span> Previous Image"
+msgstr "<span class=\"meta-nav\"></span> पिछली छवि"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s के लिए खोज परिणाम:"
+
+#: inc/template-tags.php:111
+msgid "<span class=\"posted-on\">%1$s</span>"
+msgstr "<span class=\"posted-on\">%1$s</span>"
+
+#: inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\"></span>"
+msgstr "%title <span class=\"meta-nav\"></span>"
+
+#: inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\"></span> %title"
+msgstr "<span class=\"meta-nav\"></span> %title"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "पोस्ट नेविगेशन"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\"></span>"
+msgstr "नए पोस्टस <span class=\"meta-nav\"></span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\"></span> Older posts"
+msgstr "<span class=\"meta-nav\"></span> पुराने पोस्टस"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "पोस्टस नेविगेशन"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "पृष्ठ %s"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "सामग्री पर जाएं"
+
+#: header.php:30
+msgid "Menu"
+msgstr "मेनु"
+
+#. translators: If there are characters in your language that are not supported
+#. by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:171
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:118
+msgid "Footer Sidebar 4"
+msgstr "फूटर साइडबार 4"
+
+#: functions.php:109
+msgid "Footer Sidebar 3"
+msgstr "फूटर साइडबार 3"
+
+#: functions.php:100
+msgid "Footer Sidebar 2"
+msgstr "फूटर साइडबार 2"
+
+#: functions.php:91
+msgid "Footer Sidebar 1"
+msgstr "फूटर साइडबार 1"
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr "प्राथमिक मेनू"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "थीम: %2$s द्वारा %1$s।"
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "%s द्वारा गर्व के साथ संचालित"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:58
+msgid "% Comments"
+msgstr "%s टिप्पणियाँ"
+
+#: content.php:58
+msgid "1 Comment"
+msgstr "1 टिप्पणी"
+
+#: content.php:58
+msgid "Leave a comment"
+msgstr "एक टिप्पणी छोड़ें"
+
+#: content-single.php:54 content.php:52
+msgid "Tagged %1$s"
+msgstr "टैग की गईं %1$s"
+
+#: content-single.php:49 content.php:42
+msgid "Posted in %1$s"
+msgstr "%1$s में प्रकाशित किया गया"
+
+#: content.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "पढना जारी रखे <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:47 content-single.php:52 content.php:38 content.php:48
+msgid ", "
+msgstr ", "
+
+#: content-page.php:33 content-single.php:38 content.php:27
+msgid "Pages:"
+msgstr "पृष्ठ:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ऐसा लगता है आप जो देख रहे हैं हमें नहीं मिल रहा है। शायद खोज मदद कर सकता है।"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "क्षमा करें, लेकिन कुछ भी आपके खोज शब्दों से मेल नहीं खाते। कृपया कुछ अलग खोजशब्दों के साथ फिर से प्रयास करें।"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "अपनी पहली पोस्ट को प्रकाशित करने के लिए तैयार हैं? <a href=\"%1$s\">यहाँ से शुरुआत करें</a>।"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "कुछ नहीं मिला"
+
+#: content-home.php:28 content-single.php:30
+msgid "All %s posts"
+msgstr "%s के सभी पोस्ट"
+
+#: content-featured.php:36 content-home.php:50 content-page.php:38
+#: content-single.php:60 content.php:61 image.php:79
+msgid "Edit"
+msgstr "सम्पादन"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "टिप्पणियाँ बंद हैं।"
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "नई टिप्पणियां &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; पुरानी टिप्पणियाँ"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "टिप्पणी नेविगेशन"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo पर एक विचार;"
+msgstr[1] "%1$s विचार &ldquo;%2$s&rdquo पर;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "अभिलेख"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "चैट्स"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "ऑडियोस"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "स्थितियां"
+
+#: archive.php:54
+msgid "Links"
+msgstr "कड़ियाँ"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "उद्धरण"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "वीडियोस "
+
+#: archive.php:45
+msgid "Images"
+msgstr "छवियाँ"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "गैलेरियां"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "एक ओर"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "वर्ष: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "महीना: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "दिन: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "लेखक: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "ऐसा लगता है कि कुछ भी इस स्थान पर नहीं पाया गया है। शायद एक खोज की कोशिश करें?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "उफ़! वह पृष्ठ नहीं पाया जा सकता है।"

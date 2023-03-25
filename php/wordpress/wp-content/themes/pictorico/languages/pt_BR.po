@@ -1,0 +1,290 @@
+# Translation of WordPress.com - Themes - Pictorico in Portuguese (Brazil)
+# This file is distributed under the same license as the WordPress.com - Themes - Pictorico package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 08:29:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: WordPress.com - Themes - Pictorico\n"
+
+#: inc/wpcom-colors.php:38
+msgid "Main Accent"
+msgstr "Cor principal"
+
+#: content-single.php:57
+msgid "Bookmark the permalink."
+msgstr "Salve o permalink."
+
+#: inc/jetpack.php:129
+msgid "Older projects"
+msgstr "Projetos Antigos"
+
+#: image.php:88
+msgid "Next Image <span class=\"meta-nav\"></span>"
+msgstr "Próxima imagem <span class=\"meta-nav\"></span>"
+
+#: image.php:87
+msgid "<span class=\"meta-nav\"></span> Previous Image"
+msgstr "<span class=\"meta-nav\"></span> Imagem anterior"
+
+#: image.php:24
+msgid "<span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span><span class=\"sep\"> &bull; </span><a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a><span class=\"sep\"> &bull; </span><a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "<span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span><span class=\"sep\"> &bull; </span><a href=\"%3$s\" title=\"Link para imagem em tamanho original\">%4$s &times; %5$s</a><span class=\"sep\"> &bull; </span><a href=\"%6$s\" title=\"Voltar para %7$s\" rel=\"gallery\">%7$s</a>"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/pictorico/style.css
+msgid "AA single-column, grid-based theme with large featured images and a post slider, perfect for a photoblogging or travel site."
+msgstr "Tema de coluna única, portfólio em grade com imagens grandes e publicações em forma de slides, perfeito para fotoblogs e sites com portfólio."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultados da pesquisa por: %s"
+
+#: inc/template-tags.php:111
+msgid "<span class=\"posted-on\">%1$s</span>"
+msgstr "<span class=\"posted-on\">%1$s</span>"
+
+#: inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\"></span>"
+msgstr "%title <span class=\"meta-nav\"></span>"
+
+#: inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\"></span> %title"
+msgstr "<span class=\"meta-nav\"></span> %title"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Navegação de Posts"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\"></span>"
+msgstr "Posts mais novos <span class=\"meta-nav\"></span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\"></span> Older posts"
+msgstr "<span class=\"meta-nav\"></span> Posts mais velhos"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Navegação de Posts"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "Página %s"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#: header.php:30
+msgid "Menu"
+msgstr "Menu"
+
+#. translators: If there are characters in your language that are not supported
+#. by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:171
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "ligado"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans Condensed, translate this to 'off'. Do not translate into
+#. your own language.
+#: functions.php:162
+msgctxt "Open Sans Condensed font: on or off"
+msgid "on"
+msgstr "em"
+
+#: functions.php:118
+msgid "Footer Sidebar 4"
+msgstr "Barra lateral do rodapé 4"
+
+#: functions.php:109
+msgid "Footer Sidebar 3"
+msgstr "Barra lateral do rodapé 3"
+
+#: functions.php:100
+msgid "Footer Sidebar 2"
+msgstr "Barra lateral do rodapé 2"
+
+#: functions.php:91
+msgid "Footer Sidebar 1"
+msgstr "Bara Lateral de Rodapé 1"
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr "Menu Principal"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s. "
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Orgulhosamente mantido com %s"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: content.php:58
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: content.php:58
+msgid "1 Comment"
+msgstr "1 comentário"
+
+#: content.php:58
+msgid "Leave a comment"
+msgstr "Deixe um comentário"
+
+#: content-single.php:54 content.php:52
+msgid "Tagged %1$s"
+msgstr "Marcado %1$s"
+
+#: content-single.php:49 content.php:42
+msgid "Posted in %1$s"
+msgstr "Postado em %1$s"
+
+#: content.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar lendo <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:47 content-single.php:52 content.php:38 content.php:48
+msgid ", "
+msgstr ", "
+
+#: content-page.php:33 content-single.php:38 content.php:27
+msgid "Pages:"
+msgstr "Páginas"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que não podemos encontrar o que você está procurando. Talvez pesquisar pode ajudar."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Nada foi encontrado com os termos da sua pesquisa. Tente novamente com algumas palavras-chaves diferentes."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar seu primeiro post? <a href=\"%1$s\">Comece aqui</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nada Encontrado"
+
+#: content-home.php:28 content-single.php:30
+msgid "All %s posts"
+msgstr "Todos o conteúdo de tipo %s"
+
+#: content-featured.php:36 content-home.php:50 content-page.php:38
+#: content-single.php:60 content.php:61 image.php:79
+msgid "Edit"
+msgstr "Editar"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Os comentários estão desativados."
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Comentários mais recentes &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentários mais antigos"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Navegação de Comentários"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Um comentário sobre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentários sobre &ldquo;%2$s&rdquo;"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "Arquivos"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Chats"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Áudios"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Status"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Links"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Citações"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Vídeos"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Imagens"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galerias"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Notas"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Ano: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Mês: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Dia: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que não foi encontrado nada neste local. Que tal tentar uma busca?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Opa! Esta página não pode ser encontrada."
