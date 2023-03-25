@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- INFORMATION POUR CE CONNECTER A LA BASE DE DONNEE -->
+<config>
+    <host>localhost</host>
+    <user>root</user>
+    <password></password>
+    <db>cv</db>
+    <table>experience</table>
+</config>
