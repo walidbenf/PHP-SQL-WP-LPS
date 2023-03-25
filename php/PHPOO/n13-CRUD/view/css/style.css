@@ -1,0 +1,9 @@
+table {
+  text-align:center;
+  width:50%;
+}
+.entree:hover,
+.entree:focus {
+  transition: all 2s;
+  transform: scale(1.1);
+}
